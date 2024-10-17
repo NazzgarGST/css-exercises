@@ -1,11 +1,11 @@
-p{
-    font-family: Verdana, "DejaVu sans", sans-serif; background-color: rgba(247, 136, 169, 0.925);
+.odd{
+    font-family: Verdana, "DejaVu sans", sans-serif; background-color: rgb(247, 136, 169, 0.925);
 }
 #firstid{
-    color: blue; font-size: 32px;
+    color: rgb(18, 18, 207); font-size: 32px;
 }
 
-.secondclass{
+.odd.secondclass{
     font-size: 24px;
 }
 
