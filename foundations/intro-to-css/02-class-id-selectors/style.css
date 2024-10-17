@@ -8,3 +8,7 @@ p{
 .secondclass{
     font-size: 24px;
 }
+
+#secondid{
+    font-weight: bold; background-color: rgb(121, 207, 128); font-size: 24px;
+}
