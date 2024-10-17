@@ -1,3 +1,6 @@
 p{
     font-family: Verdana, "DejaVu sans", sans-serif; background-color: rgba(247, 136, 169, 0.925);
 }
+#firstid{
+    color: blue; font-size: 32px;
+}
